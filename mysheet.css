@@ -1,0 +1,404 @@
+.box1{
+	background-color:#4f8ae8;
+	margin:auto ;
+	color: white;
+	font-family: Arial,gadget, sans-serif;
+	height:450px;
+	margin-left: 70px;
+	margin-right: 60px;
+	margin-top: 20px;
+
+}
+
+.menu{
+	font-size: 12px;
+	float: right;
+	color: white;
+}
+.box1 ul{
+	
+	float: right;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+
+}
+.box1 ul li{
+	list-style: none;
+}
+.b1{
+	margin-left:50px;
+	margin-right:50px;
+	font-size: 30px;
+
+}
+.b2{
+	font-size: 12px;
+	margin-left: 50px;
+	font-family: Arial,gadget, sans-serif;
+}
+
+body{
+	background-color:whitesmoke;
+}
+.box2{
+	background-color: white;
+	height:85px;
+	margin-left: 70px;
+	margin-right: 60px;
+
+}
+.box2 img{
+	margin-top: 45px;
+	margin-left: 70px;
+	margin-right: 50px;
+
+}
+.b3{
+	width: 400px;
+	height: 30px;
+	margin-top:20px ;
+	margin-left: 50px;
+	color: black;
+	font-family: Arial,helvetica,sans-serif;
+	font-size:10px ;
+	
+}
+.b3 button{
+	border-color: white;
+	border-radius: 5px;
+	height: 30px;
+	width: 150px;
+	font-size: 10px;
+}
+.box3 p{
+	font-family: Arial,helvetica,sans-serif;
+	font-size: 12px;
+	color: black;
+
+}
+.box3{
+	background-color: white;
+	height:200px ;
+	margin-left: 510px;
+	margin-right: 510px;
+	margin-top: 40px;
+	text-align: center;
+	font-family: Arial,helvetica,sans-serif;
+	font-size: 12px;
+	color: grey;
+
+}
+
+
+.box3 h1{
+	font-family: Arial,helvetica,sans-serif;
+	font-size: 30px;
+	color: black;
+}
+.block{
+	float:left ;
+	width: 34%;
+	padding-left: 5%;
+	padding-top: 30px;
+	padding-right: 10%;
+	height: 150px;
+}
+
+.block p{
+	color: grey;
+}
+.block img{
+	width: 30px;
+	height: 30px;
+	float: left;
+}
+.box4{
+	margin-left:300px;
+	margin-right: 300px;
+	background-color:white;
+	height: 380px;
+
+}
+.box5{
+	background-color:#4f8ae8;
+	margin:auto ;
+	color: white;
+	font-family: Arial,helvetica, sans-serif;
+	height:500px;
+	margin-left: 70px;
+	margin-right: 60px;
+	margin-top: 20px;
+
+}
+.box5 p{
+	font-size: 10px;
+}
+.block2{
+	padding-left: 200px;
+	padding-top: 30px;
+	padding-right: 50px;
+}
+
+.box6{
+	margin-left: 70px;
+	margin-right: 60px;
+	margin-top: 20px;
+	height: 600px;
+	background-color: white;
+}
+.block3{
+	 padding-left: 780px;
+	 padding-top: 150px;
+	 font-family: Arial,helvetica, sans-serif;
+	 background-color: white;
+}
+.block3 p{
+	font-size: 14px;
+	color: grey;
+
+}
+.block3 button{
+	border-radius:4px;
+	color: white;
+	border-color: white;
+	background-color:#4f8ae8;
+	padding: 8px 20px;
+	text-align: center;
+	font-size: 12px;
+	margin: 4px 2px;
+	width: 160px;
+	height: 40px;
+
+}
+.AppSS{
+	font-family: Arial,helvetica, sans-serif;
+	text-align: center;
+	margin-left: 70px;
+	margin-right: 60px;
+	background-color:whitesmoke;
+	height: 650px;
+	padding-top: 50px;
+}
+.AppSS img{
+	width: 300px;
+	height: 500px;
+}
+
+.charges{
+	margin-left: 70px;
+	margin-right: 60px;
+	background-color:#4f8ae8;
+	height: 350px;
+	font-family: Arial,helvetica, sans-serif;
+	
+}
+.chargesTxt{
+	margin-top:50px;
+	width: 25%;
+	margin-left: 100px;
+	color: white;
+	float: left;
+	height: 260px;
+	padding: 20px;
+
+}
+.chargesTxt button{
+	width: 180px;
+	height: 30px;
+	border-color: white;
+	border-radius: 7px;
+	background-color: #4f8ae8;
+	color: white;
+	font-size: 10px;
+}
+
+.blueBox{
+	margin-left: 70px;
+	margin-right: 60px;
+	background-color:#1a335c;
+	height: 400px;
+	font-family: Arial,helvetica, sans-serif;
+}
+.list1 ul{
+	padding: 5px;
+	font-size: 12px;
+}
+.blueBox1{
+	margin-top: 240px;
+	color: white;
+	margin-left: 400px;
+	margin-right: 400px;
+	height: 350px;
+}
+.blueBox1 ul{
+	align-items: center;
+	margin: 25px;
+	justify-content: center;
+
+
+}
+#list2 li{
+	list-style: none;
+	font-size: 12px;
+
+}
+#list2 li a{
+	color: white;
+	margin-left: 3px;
+}
+#list2 li::before{
+	content: "\00BB";
+}
+
+.blackBox{
+	margin-left: 70px;
+	margin-right: 60px;
+	background-color:black;
+	height: 300px;
+	font-family: Arial,helvetica, sans-serif;
+	color: white;
+}
+.experience{
+	margin-left: 70px;
+	margin-right: 60px;
+	background-color: whitesmoke;
+	font-family: Arial,helvetica, sans-serif;
+	height: 650px;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.experience p{
+	color: grey;
+	font-size: 12px;
+}
+.needHelp{
+	margin-left: 70px;
+	margin-right: 60px;
+	background-color:#4f8ae8;
+	font-family: Arial,helvetica, sans-serif;
+	height: 500px;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.form{
+	width: 600px;
+	height: 500px;
+	border-radius: 5px;
+	background-color: white;
+	margin-left: 28%;
+	margin-right: 28%;
+
+}
+.my-form{
+	padding: 30px;
+}
+.my-form.form-group{
+	padding-bottom: 15px;
+}
+.my-form label{
+	display: block;
+	font-size: 10px;
+	font-family: Arial,helvetica, sans-serif;
+}
+.my-form input[type="text"],.my-form textarea{
+	padding: 5px;
+	width: 90%;
+	border-color: white;
+	border-radius: 3px;
+}
+.my-form input[type="submit"]{
+font-family: Arial,helvetica, sans-serif;
+width: 95%;
+border-color: whitesmoke;
+color: white;
+background-color:#4f8ae8 ;
+height: 35px;
+border-radius: 3px;
+}
+
+.feature{
+	margin-left: 70px;
+	margin-right: 60px;
+	font-family: Arial,helvetica, sans-serif;
+	height: 410px;
+	padding-top: 20px;
+	padding-left: 100px;
+}
+.feature-group{
+	margin-left: 30px; 
+	margin-top:200px ;
+	width: 12%;
+	float: left;
+	
+}
+.feature-group li{
+	font-size: 12px;
+	color: grey;
+	list-style: none;
+}
+.feature-group h5{
+	padding-left: 35px;
+
+}
+
+.feature-group img{
+	padding-left: 20px;
+	wigth: 250px;
+	height: 160px;
+}
+.feature-group li::before{
+	content: "\00BB";
+
+}
+.secondLast{
+	margin-left: 70px;
+	margin-right: 60px;
+	background-color: white;
+	font-family: Arial,helvetica, sans-serif;
+	height: 170px;
+	
+}
+.secondLast p{
+	padding-top: 10px;
+	/*padding-left: 160px;*/
+	color: grey;
+	font-size: 12px;
+}
+.belowImg{
+	float:left;
+	padding-right: 100px;
+	width: 42%;
+}
+.last{
+	margin-left: 70px;
+	margin-right: 60px;
+	background-color:#4f8ae8;
+	height: 100px;
+	font-family: Arial,helvetica, sans-serif;
+}
+.last p{
+	color: white;
+	font-size: 10px;
+	margin-left: 100px;
+
+}
+.last-button{
+	float: right;
+	width: 400px;
+	height: 50px;
+}
+.last-button button{
+	margin-right: 10px;
+	border-color: white;
+	border-radius: 5px;
+	color: #4f8ae8;
+	width: 120px;
+	height: 30px;
+	font-size: 10px;
+}
+
+
+
+
